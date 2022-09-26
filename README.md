@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-pohlmann&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-Sou um apaixonado por tecnologia, estou sempre em busca de conhecimento para aperfeiçoar cada vez mais meu trabalho.<br/>
+Sou um apaixonado por tecnologia, estou sempre em busca de conhecimento para aperfeiçoar cada vez mais aprimorar meu trabalho.<br/>
 
 #### Entre em contato comigo<br/>
 ## trp_pohlmann@hotmail.com
